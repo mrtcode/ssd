@@ -333,7 +333,7 @@ This is what the actual password guessing script does:
 * Checks the output of `hdparm` to validate if the password matches.
 * Executes `impulse` to power cycle the device if the password limit is exceeded.
 
-```
+```php
 <?php
 
 $tryNr = 0;
