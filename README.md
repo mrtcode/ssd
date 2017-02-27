@@ -61,7 +61,7 @@ but all of the data on the drive will be lost. Tools are available to do this
 
 But all of them are non-user-grade tools, probably more expensive that a new SSD drive.
 And of course the drive must support TCG/Opal and IEEE 1667 standards to perform the PSID revert.
-Even thought Samsung had been promoting for about half a year that Samsung 840 EVO supports TCG/Opal and IEEE 1667 standarts,
+Even though Samsung had been promoting for about half a year that Samsung 840 EVO supports TCG/Opal and IEEE 1667 standarts,
 in reality, there was no support for this feature until the December of 2013.
 It seems that only the `EXT0BB6Q` firmware update enabled this feature.
 But if you locked your drive before, you can't just upgrade the firmware, you have to unlock it first :)
