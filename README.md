@@ -43,7 +43,7 @@ http://www.samsung.com/global/business/semiconductor/Downloads/Samsung_SSD_840EV
 There are a few toolkits to manage OPAL drive from Windows.
 Looks like ULINK Technology has a tool supporting a PSID revert.
 
-![](https://mrtcode.github.io/ssd/images/sata.jpg)
+![](https://mrtcode.github.io/ssd/images/sata.png)
 
 McAfee also has a paragraph about the PSID revert in its product called “Endpoint Encryption” description page.
 
